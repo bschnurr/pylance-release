@@ -132,3 +132,5 @@ When filing an issue, make sure you do the following:
     -   If using a virtual environment, please include the requirements.txt file.
     -   If working with a conda environment, attach the environment.yml file.
 -   A code example (or any other additional information) we can use to reproduce the issue.
+-   Use the "Pylance: Report Issue" command (via command palette) to fill this out most of this information and to automatically copy your "Python Language Server" logs to the clipboard
+
